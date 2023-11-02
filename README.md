@@ -17,7 +17,7 @@ The project must be fork for each headsets:
  - UWP
    - Hololens 2 *
 
-(** * I am not targeting those platform. But maybe one day.**)
+_( * I am not targeting those platform. But maybe one day.)_
        
 I could use branches. But I like forking to be sure of not mixing code at one point.  
 
