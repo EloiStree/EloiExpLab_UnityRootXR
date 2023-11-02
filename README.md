@@ -9,12 +9,16 @@ The project must be fork for each headsets:
 - Android XR
   - Quest 1 2 3
   - Lynx R1
-  - Pico
+  - Pico *
 - Computer
    - Steam VR
    - Oculus Lab
-   - Window Mixed Reality
- 
+   - Window Mixed Reality *
+ - UWP
+   - Hololens 2 *
+
+(** * I am not targeting those platform. But maybe one day.**)
+       
 I could use branches. But I like forking to be sure of not mixing code at one point.  
 
 🚨 Note: I have no idea of what I am doing ^^, don'take my project as an example.  
